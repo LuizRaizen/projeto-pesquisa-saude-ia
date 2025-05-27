@@ -18,8 +18,8 @@ O projeto é composto por dois sistemas interligados:
 
 **Links dos repositórios:**
 
-- [Frontend](https://github.com/seuusuario/pesquisa-saude-frontend)
-- [Backend](https://github.com/seuusuario/pesquisa-saude-backend)
+- [Frontend](https://github.com/LuizRaizen/pesquisa-saude-frontend)
+- [Backend](https://github.com/LuizRaizen/pesquisa-saude-backend)
 
 **Link para o site:**  
 ➡️ https://pesquisa-saude-frontend.vercel.app/
@@ -30,10 +30,10 @@ Durante a execução do projeto, foram realizadas diversas abordagens, com o pes
 
 ### 📸 Algumas imagens da ação em campo:
 
-![Abordagem 1](./imagens/abordagem1.jpg)  
-![Abordagem 2](./imagens/abordagem2.jpg)  
-![Abordagem 3](./imagens/abordagem3.jpg)  
-![Crachá com QRCode](./imagens/cracha.jpg)
+![Abordagem 1](./abordagem1.jpg)  
+![Abordagem 2](./abordagem2.jpg)  
+![Abordagem 3](./abordagem3.jpg)  
+![Crachá com QRCode](./cracha.jpg)
 
 > O QR Code foi fixado em um crachá plastificado, tornando a abordagem prática, higiênica e acessível.
 
